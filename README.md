@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there! 👋 I'm Bruno Habermann
 
+I'm a problem solver that currently works at [![Dextra](https://avatars1.githubusercontent.com/u/717571?s=20&v=4)](https://dextra.com.br/) [Dextra](https://dextra.com.br/)
+
+## Contact me 📫
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic&logo=Github&logoColor=white)](https://github.com/bhabermann)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brunohabermann/)
+
+...Working on this readme
 <!--
 **bhabermann/bhabermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
