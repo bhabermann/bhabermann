@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Bruno Habermann
 
-I'm a problem solver that currently works at [![Dextra](https://avatars1.githubusercontent.com/u/717571?s=20&v=4)](https://dextra.com.br/) [Dextra](https://dextra.com.br/)
+I'm a problem solver that currently works at @ciandt
 
 ## Contact me 📫
 
